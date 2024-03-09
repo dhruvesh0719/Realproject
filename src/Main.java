@@ -11,6 +11,7 @@ public class Main {
             System.out.println("hi");
             System.out.println("h");
             System.out.println("home");
+            System.out.println("Garden");
         }
     }
 }
